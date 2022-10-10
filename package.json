@@ -1,0 +1,23 @@
+{
+  "name": "tailwind-css",
+  "version": "1.0.0",
+  "description": "Ninja code tutorial",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "npx tailwindcss-cli@latest build src/style.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ekaanth/Tailwind-css.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ekaanth/Tailwind-css/issues"
+  },
+  "homepage": "https://github.com/Ekaanth/Tailwind-css#readme",
+  "dependencies": {
+    "tailwindcss": "^3.1.8"
+  }
+}
